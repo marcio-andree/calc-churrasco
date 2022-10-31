@@ -1,3 +1,17 @@
-body {
-  background-color: blueviolet;
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 300px;
+  margin:auto;
+  background-color: #3945b1;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input{
+  padding: 5px;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 10px;
 }
